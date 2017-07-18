@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39420" started-at="2016-12-20T13:19:48Z" finished-at="2016-12-20T13:20:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39420" started-at="2016-12-20T13:19:48Z" finished-at="2016-12-20T13:20:28Z">
+      <class name="scripts.SignIn_Out">
+        <test-method status="PASS" signature="report()[pri:0, instance:scripts.SignIn_Out@57adfab0]" name="report" is-config="true" duration-ms="294" started-at="2016-12-20T18:49:48Z" finished-at="2016-12-20T18:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:scripts.SignIn_Out@57adfab0]" name="beforeClass" is-config="true" duration-ms="5997" started-at="2016-12-20T18:49:49Z" finished-at="2016-12-20T18:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCreateAccount()[pri:0, instance:scripts.SignIn_Out@57adfab0]" name="testCreateAccount" duration-ms="31583" started-at="2016-12-20T18:49:55Z" finished-at="2016-12-20T18:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAccount -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:scripts.SignIn_Out@57adfab0]" name="afterClass" is-config="true" duration-ms="1536" started-at="2016-12-20T18:50:26Z" finished-at="2016-12-20T18:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- scripts.SignIn_Out -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

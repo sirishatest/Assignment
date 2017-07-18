@@ -1,0 +1,14 @@
+scripts\UpdateAccount.class
+or\LoginPage.class
+or\HomePage.class
+scripts\Cart.class
+util\ConfiguratorSupport.class
+scripts\CreateAccount.class
+scripts\SignIn_Out.class
+or\ProductsPage.class
+scripts\UpdateCart.class
+reuse\BusinessFunctions.class
+or\MyAccount.class
+util\Xls_Reader.class
+wdCustCmds\ActionDriver.class
+config\StartBrowser.class

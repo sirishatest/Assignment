@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+		<class name="scripts.SignIn_Out" />
+			<!-- <class name="scripts.CreateAccount" />
+			<class name="scripts.SignIn_Out" />
+			<class name="scripts.UpdateAccount" />
+			<class name="scripts.Cart" />
+			<class name="scripts.UpdateCart" /> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
